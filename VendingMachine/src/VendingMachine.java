@@ -18,6 +18,7 @@ public class VendingMachine {
 
 
 
+
     public void acheterProduit() {
         afficherProduits();
         System.out.print("Entrez le numéro du produit : ");
